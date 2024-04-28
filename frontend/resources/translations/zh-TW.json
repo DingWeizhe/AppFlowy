@@ -234,10 +234,13 @@
     "private": "私人",
     "workspace": "工作區",
     "favorites": "最愛",
-    "clickToHidePrivate": "點擊以隱藏私人空間\n你建立的且只有你能看到的頁面",
+    "clickToHidePrivate": "點擊以隱藏私人空間\n你建立且只有你能看到的頁面",
+    "clickToHideWorkspace": "點擊以隱藏工作區\n你建立且每個成員都可以看見的頁面",
     "clickToHidePersonal": "點選以隱藏個人區塊",
     "clickToHideFavorites": "點選以隱藏最愛區塊",
     "addAPage": "新增頁面",
+    "addAPageToPrivate": "加入頁面到私人空間中",
+    "addAPageToWorkspace": "加入頁面到工作區中",
     "recent": "最近"
   },
   "notifications": {
@@ -280,7 +283,19 @@
     "rename": "重新命名",
     "helpCenter": "支援中心",
     "add": "新增",
-    "yes": "是"
+    "yes": "是",
+    "clear": "清除",
+    "remove": "刪除",
+    "dontRemove": "請勿刪除",
+    "copyLink": "複製連結",
+    "align": "對齊",
+    "login": "登入",
+    "logout": "登出",
+    "deleteAccount": "刪除帳號",
+    "back": "上一步",
+    "signInGoogle": "使用 Google 登入",
+    "signInGithub": "使用 GitHub 登入",
+    "signInDiscord": "使用 Discord 登入"
   },
   "label": {
     "welcome": "歡迎！",
@@ -376,6 +391,7 @@
         "dark": "深色模式",
         "system": "依照系統設定"
       },
+      "fontScaleFactor": "字體大小",
       "documentSettings": {
         "cursorColor": "文件游標顏色",
         "selectionColor": "文件選取顏色",
@@ -428,7 +444,8 @@
         "twelveHour": "12 小時制",
         "twentyFourHour": "24 小時制"
       },
-      "showNamingDialogWhenCreatingPage": "建立頁面時顯示命名對話框"
+      "showNamingDialogWhenCreatingPage": "建立頁面時顯示命名對話框",
+      "enableRTLToolbarItems": "啟用 RTL 工具列項目"
     },
     "files": {
       "copy": "複製",
