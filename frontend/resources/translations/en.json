@@ -168,7 +168,7 @@
       "isDeleted": "is deleted",
       "isRestored": "is restored"
     },
-    "confirmDeleteTitle": "Are you sure you want to delete this page permanently?"
+    "confirmDeleteTitle": "Are you sure you want to delete this page 永久?"
   },
   "deletePagePrompt": {
     "text": "This page is in Trash",
